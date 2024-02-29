@@ -1,7 +1,7 @@
 {
     "id": "shareddata",
     "title": "Shared Data",
-    "description": "Collection of tokens, scenes and other shared resources",
+    "description": "Collection of tokens, scenes and other shared resources for Foundry VTT",
     "version": "1.0.0",
     "authors": [
         {
