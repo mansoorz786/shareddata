@@ -18,59 +18,59 @@
     },
     "packs": [
         {
-            "name": "module-creatures",
-            "label": "Module Creatures",
+            "name": "shareddata-creatures",
+            "label": "Shared Creatures",
             "path": "./packs/creatures.db",
             "entity": "Actor",
             "type": "Actor",
             "system": "dnd5e"
         },
         {
-            "name": "module-items",
-            "label": "Module Items",
+            "name": "shareddata-items",
+            "label": "Shared Items",
             "path": "./packs/items.db",
             "entity": "Item",
             "type": "Item",
             "system": "dnd5e"
         },
         {
-            "name": "module-scenes",
-            "label": "Module Scenes",
+            "name": "shareddata-scenes",
+            "label": "Shared Scenes",
             "path": "./packs/scenes.db",
             "entity": "Scene",
             "type": "Scene"
         },
         {
-            "name": "module-journal-entries",
-            "label": "Module Journal Entries",
+            "name": "shareddata-journal-entries",
+            "label": "Shared Journal Entries",
             "path": "./packs/journal-entries.db",
             "entity": "JournalEntry",
             "type": "JournalEntry"
         },
         {
-            "name": "module-macros",
-            "label": "Module Macros",
+            "name": "shareddata-macros",
+            "label": "Shared Macros",
             "path": "./packs/macros.db",
             "entity": "Macro",
             "type": "Macro"
         },
         {
-            "name": "module-roll-tables",
-            "label": "Module Roll Tables",
+            "name": "shareddata-roll-tables",
+            "label": "Shared Roll Tables",
             "path": "./packs/roll-tables.db",
             "entity": "RollTable",
             "type": "RollTable"
         },
         {
-            "name": "module-playlists",
-            "label": "Module Playlists",
+            "name": "shareddata-playlists",
+            "label": "Shared Playlists",
             "path": "./packs/playlists.db",
             "entity": "Playlist",
             "type": "Playlist"
         },
         {
-            "name": "module-adventures",
-            "label": "Module Adventures",
+            "name": "shareddata-adventures",
+            "label": "Shared Adventures",
             "path": "./packs/adventures.db",
             "entity": "Adventure",
             "type": "Adventure"
