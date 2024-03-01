@@ -1,7 +1,7 @@
 {
     "id": "shareddata",
     "title": "Shared Data",
-    "description": "Collection of tokens, scenes and other shared resources for Foundry VTT",
+    "description": "Collection of tokens, scenes and other shared resources",
     "version": "1.0.0",
     "authors": [
         {
@@ -76,5 +76,5 @@
             "type": "Adventure"
         }
     ],
-    "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json"
+    "manifest": "https://github.com/mansoorz786/shareddata/blob/main/module.json"
   }
